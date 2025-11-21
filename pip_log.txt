@@ -1,0 +1,4 @@
+Using pip 25.0.1 from C:\Projects\mlproject\venv\lib\site-packages\pip (python 3.8)
+Obtaining file:///C:/Projects/mlproject
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
