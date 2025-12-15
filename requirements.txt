@@ -6,3 +6,4 @@ catboost
 jupyter
 xgboost
 dill
+flask
